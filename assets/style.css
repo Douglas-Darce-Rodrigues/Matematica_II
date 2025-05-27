@@ -30,7 +30,7 @@ footer p{
 }
 .cartao {
    margin: 1rem 1rem; 
-   background-color: grey;
+   background-color: green;
    height: 20rem;
    flex-grow: 1;
    flex-basis: calc(33% - 6rem);
@@ -42,7 +42,7 @@ footer p{
 }
 .cartao__conteudo h3{
     border: 1px solid ;
-    background-color: blue;
+    background-color: greenyellow;
      text-align: left;
      padding: 0.5rem;
      position: absolute;
@@ -60,3 +60,17 @@ color: var(--text-color);
 .cartao__conteudo__resposta{
     color: var(--card-back-color);
 }
+
+.cartao:hover .cartao__conteudo {
+
+ transform:rotateY(180deg);
+
+
+
+}
+
+
+
+
+
+
