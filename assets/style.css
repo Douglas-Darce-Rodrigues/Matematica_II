@@ -39,6 +39,7 @@ footer p{
     color: var(--card-front-color);
     text-align: center;
     height: 100%;
+    transform-style: preserve-3d;
 }
 .cartao__conteudo h3{
     border: 1px solid ;
