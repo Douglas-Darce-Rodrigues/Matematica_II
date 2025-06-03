@@ -1,12 +1,12 @@
 :root {
     --text-color: #DBE4EF;
-    --card-front-color: #144480;
+    --card-front-color: #8BE65A;
     --card-back-color: #00F4BF;
 }
 
 body {
     background-color: #96E6E3;
-    font-family: Bai Jamjuree;
+    font-family: Bai Jamjuree;a
 }
 
 #container {
