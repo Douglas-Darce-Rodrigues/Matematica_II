@@ -1,11 +1,11 @@
 :root {
-    --text-color: #DBE4EF;
-    --card-front-color: #8BE65A;
+    --text-color: #000408;
+    --card-front-color: #5db32f;
     --card-back-color: #00F4BF;
 }
 
 body {
-    background-color: #96E6E3;
+    background-color: #045552;
     font-family: Bai Jamjuree;a
 }
 
