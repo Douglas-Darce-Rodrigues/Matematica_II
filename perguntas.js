@@ -11,7 +11,25 @@ criaCartao(
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'Matemática',
+    'O que esse simbolo (+) representa?',
+    'Uma soma de números ou algarismos'
+)
+
+criaCartao(
+    'Biologia',
+    'A qual filo pertence as Esponjas-do-Mar?',
+    'Ao filo dos Poríferos'
+)
+
+criaCartao(
+    'Física',
+    'O que é um condutor elétreico?',
+    'Algo que tem a capacidade de armazenar eletricidade'
+)
+
+criaCartao(
+    'Química',
+    'A qual elemento químico pertence o simbolo Mg?',
+    'Ao elemento Magnésio'
 )
